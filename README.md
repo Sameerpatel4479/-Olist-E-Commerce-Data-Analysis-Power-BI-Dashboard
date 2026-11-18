@@ -403,7 +403,7 @@ Each page focuses on a different area of e-commerce performance.
 - Support product planning and inventory decisions.
 
 <p align="center">
-    <img src="Resource/Product%20Category%20Analysis.png" width="900">
+    <img src="https://github.com/Sameerpatel4479/-Olist-E-Commerce-Data-Analysis-Power-BI-Dashboard/blob/f6acd7fe1cea70840aebc8c05b9835b54fcb4ce1/Resource/Product%20%26%20Category%20Analysis.png" width="900">
 </p>
 
 ---

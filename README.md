@@ -144,7 +144,9 @@ The Raw_Geolocation table was retained separately.
 
 Relationships were created using common keys such as `customer_id`, `order_id`, `product_id`, `seller_id`, and `product_category_name`.
 
----
+<p align="center">
+    <img src="Resource/data%20model.png" width="900">
+</p>
 
 ## 🔄 4. Importing Data into Power BI
 

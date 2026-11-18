@@ -282,7 +282,7 @@ Each page focuses on a different area of e-commerce performance.
 - Compare recorded payment values associated with different delivery statuses.
 
 <p align="center">
-    <img src="Resource/Sales%20%26%20Revenue%20Analysis.png" width="900">
+    <img src="https://github.com/Sameerpatel4479/-Olist-E-Commerce-Data-Analysis-Power-BI-Dashboard/blob/42b392ecab31cc1c35eb622932eedc24c7af4297/Resource/Sales%20%26%20Revenue%20Analysis..png" width="900">
 </p>
 ---
 

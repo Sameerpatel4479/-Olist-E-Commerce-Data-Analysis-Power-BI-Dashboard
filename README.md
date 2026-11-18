@@ -246,6 +246,9 @@ Each page focuses on a different area of e-commerce performance.
 - Evaluate customer satisfaction.
 - Monitor delivery performance.
 
+<p align="center">
+    <img src="Resource/Executive%20Overview.png" width="900">
+</p>
 ---
 
 ## 💰 View 2 — Sales & Revenue
@@ -278,6 +281,9 @@ Each page focuses on a different area of e-commerce performance.
 - Identify high-value product categories.
 - Compare recorded payment values associated with different delivery statuses.
 
+<p align="center">
+    <img src="Resource/Sales%20%26%20Revenue%20Analysis.png" width="900">
+</p>
 ---
 
 ## 🚚 View 3 — Order & Delivery Analysis
@@ -319,6 +325,9 @@ Each page focuses on a different area of e-commerce performance.
 - Compare delivered and non-delivered orders.
 - Understand the distribution of different order statuses.
 
+<p align="center">
+    <img src="Resource/Order%20%26%20Delivery%20Analysis.png" width="900">
+</p>
 ---
 
 ## 👥 View 4 — Customer Insights
@@ -357,6 +366,9 @@ Each page focuses on a different area of e-commerce performance.
 - Identify high-value customers.
 - Highlight opportunities for customer retention and loyalty strategies.
 
+<p align="center">
+    <img src="Resource/Customer%20Insights.png" width="900">
+</p>
 ---
 
 ## 🛍️ View 5 — Product & Category Analysis
@@ -389,6 +401,10 @@ Each page focuses on a different area of e-commerce performance.
 - Compare seller contribution.
 - Identify frequently purchased products.
 - Support product planning and inventory decisions.
+
+<p align="center">
+    <img src="Resource/Product%20Category%20Analysis.png" width="900">
+</p>
 
 ---
 

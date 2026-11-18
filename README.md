@@ -326,7 +326,7 @@ Each page focuses on a different area of e-commerce performance.
 - Understand the distribution of different order statuses.
 
 <p align="center">
-    <img src="Resource/Order%20%26%20Delivery%20Analysis.png" width="900">
+    <img src="https://github.com/Sameerpatel4479/-Olist-E-Commerce-Data-Analysis-Power-BI-Dashboard/blob/1d4db67fe8cdc20c7718b16f6f5b8d0b142bf924/Resource/Order%20%26%20Delivery%20Analysis..png" width="900">
 </p>
 ---
 

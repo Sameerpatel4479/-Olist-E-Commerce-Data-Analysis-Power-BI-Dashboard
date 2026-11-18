@@ -1,0 +1,42 @@
+ CSV Verification — Missing Customer Delivery Dates
+
+**Finding:** 8 orders marked as `delivered` have missing `order_delivered_customer_date` values in MySQL.
+
+**Verification:** Compared the 8 affected records with the original `olist_orders_dataset.csv` file.
+
+**Result:** All 8 delivery dates were also missing in the original CSV.
+
+**Conclusion:** The missing values already existed in the source dataset. There is no evidence from this check that the MySQL import process caused these missing dates.
+
+**Cleaning Decision:** Keep these values as `NULL`. Do not replace them with estimated delivery dates or review timestamps because these do not confirm the actual delivery date.
+
+**Project Status:** Missing customer delivery date investigation completed.
+
+
+
+### Investigation: Canceled Orders with Customer Delivery Dates
+
+**Finding**
+Out of 625 canceled orders, 619 have a missing customer delivery timestamp, while 6 have a non-NULL `order_delivered_customer_date`.
+
+- Total canceled orders: 625
+- Missing customer delivery dates: 619 (99.04%)
+- Canceled orders with recorded customer delivery dates: 6 (0.96%)
+
+**Purpose**
+To identify potential inconsistencies between order status and recorded customer delivery timestamps.
+
+**Validation**
+Compared the purchase, carrier handover, and customer delivery timestamps for all six records. All six have timestamps in chronological order.
+
+**Business Interpretation**
+These six records may indicate a potential inconsistency between the canceled order status and the recorded delivery timestamps. However, the available data does not establish whether the orders were delivered, canceled after delivery, or affected by another issue.
+
+**Data Quality Decision**
+- Retain the original order status and timestamps.
+- Do not modify or delete these records without reliable supporting evidence.
+- Document the records for further investigation if additional cancellation or delivery information becomes available.
+
+**Conclusion**
+Most canceled orders (619) have no recorded customer delivery timestamp. The remaining 6 orders (0.96%) have recorded delivery timestamps despite being marked as canceled. These records are potential data quality concerns, not confirmed errors.
+

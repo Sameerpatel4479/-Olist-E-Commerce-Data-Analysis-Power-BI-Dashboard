@@ -367,7 +367,7 @@ Each page focuses on a different area of e-commerce performance.
 - Highlight opportunities for customer retention and loyalty strategies.
 
 <p align="center">
-    <img src="Resource/Customer%20Insights.png" width="900">
+    <img src="https://github.com/Sameerpatel4479/-Olist-E-Commerce-Data-Analysis-Power-BI-Dashboard/blob/e5d0eda4e1c74234f45afd0e9664f027a70dd695/Resource/Customer%20Insights..png" width="900">
 </p>
 ---
 
